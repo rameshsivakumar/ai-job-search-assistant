@@ -1,0 +1,13 @@
+Divya Srinivasan
+Machine Learning Engineer
+Email: divya.s@example.com
+
+Skills: Python, TensorFlow, PyTorch, NLP, Computer Vision, Docker
+
+Experience:
+- ML Engineer, VisionX (2020-04 - Present)
+  * Deployed ML models to production.
+  * Built NLP classification pipelines.
+
+Education:
+B.Tech AI & ML

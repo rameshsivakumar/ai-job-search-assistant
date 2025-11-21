@@ -1,0 +1,13 @@
+Sneha Patil
+Frontend Developer
+Email: sneha.patil@email.com
+
+Skills: JavaScript, React, Redux, HTML, CSS, Tailwind
+
+Experience:
+- Frontend Developer, Pixel Labs (2020-08 - Present)
+  * Built responsive UI components.
+  * Optimized React rendering performance.
+
+Education:
+B.Des Interaction Design

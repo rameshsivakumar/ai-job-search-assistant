@@ -1,0 +1,12 @@
+Meena K
+Embedded Engineer
+Email: meena.k@example.com
+
+Skills: C, C++, Microcontrollers, RTOS, UART, SPI
+
+Experience:
+- Embedded Developer, ChipCore (2020-07 - Present)
+  * Developed firmware for sensor boards.
+
+Education:
+B.E. Electronics & Communication

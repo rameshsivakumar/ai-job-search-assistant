@@ -1,0 +1,13 @@
+Arjun Reddy
+Game Developer
+Email: arjun.reddy@example.com
+
+Skills: Unity, C#, 3D Modelling, Game Physics
+
+Experience:
+- Game Developer, FunGames (2019-09 - Present)
+  * Built 3D game levels with Unity.
+  * Improved player movement physics.
+
+Education:
+B.Tech Computer Science

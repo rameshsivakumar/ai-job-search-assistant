@@ -1,0 +1,13 @@
+Karthik Balaji
+Frontend Engineer
+Email: karthik.b@example.com
+
+Skills: Vue.js, JavaScript, HTML, CSS, Vite, REST APIs
+
+Experience:
+- Frontend Engineer, UICraft (2021-05 - Present)
+  * Developed dashboard UI using Vue.js.
+  * Integrated APIs and improved UX.
+
+Education:
+B.Tech Information Technology

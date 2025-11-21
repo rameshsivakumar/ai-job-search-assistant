@@ -1,0 +1,13 @@
+Nisha Verma
+Product Manager
+Email: nisha.v@example.com
+
+Skills: Product Strategy, Roadmaps, PRDs, Data Analysis, User Research
+
+Experience:
+- PM, ProdFlow (2020-05 - Present)
+  * Led product lifecycle for SaaS platform.
+  * Coordinated between engineering and design teams.
+
+Education:
+MBA + B.Tech Computer Science

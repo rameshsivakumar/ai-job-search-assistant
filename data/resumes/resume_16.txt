@@ -1,0 +1,13 @@
+Harini S
+UI/UX Designer
+Email: harini.s@example.com
+
+Skills: Figma, Wireframes, Prototyping, User Research, Visual Design
+
+Experience:
+- UI/UX Designer, DesignHub (2021-01 - Present)
+  * Designed mobile and web interfaces.
+  * Improved UX flows for onboarding.
+
+Education:
+B.Des Communication Design

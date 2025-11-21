@@ -1,0 +1,13 @@
+Amit Sharma
+Node.js Backend Engineer
+Email: amit.sharma@example.com
+
+Skills: Node.js, Express.js, MongoDB, Redis, AWS Lambda
+
+Experience:
+- Backend Engineer, WebWorks (2021-01 - Present)
+  * Built Express-based REST APIs.
+  * Migrated services to AWS Lambda functions.
+
+Education:
+B.Tech Computer Engineering, SRM University

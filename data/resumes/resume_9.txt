@@ -1,0 +1,13 @@
+Rohit Menon
+Data Scientist
+Email: rohit.menon@example.com
+
+Skills: Python, Pandas, Numpy, Scikit-learn, SQL, Matplotlib
+
+Experience:
+- Data Scientist, DataSense (2019-01 - Present)
+  * Built ML models for demand forecasting.
+  * Created dashboards and reports.
+
+Education:
+M.Tech Computer Science

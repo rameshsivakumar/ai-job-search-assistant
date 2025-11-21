@@ -1,0 +1,1171 @@
+[
+  {
+    "id": "job-001",
+    "title": "Backend Developer",
+    "company": "Acme Tech",
+    "location": "Bengaluru, India",
+    "remote": true,
+    "skills": ["Java", "Spring Boot", "REST", "SQL"],
+    "seniority": "mid",
+    "salary": "12-18 LPA",
+    "description": "Build backend microservices and REST APIs."
+  },
+  {
+    "id": "job-002",
+    "title": "Software Engineer - Backend",
+    "company": "Nimbus Labs",
+    "location": "Chennai, India",
+    "remote": false,
+    "skills": ["Python", "Django", "Postgres", "Docker"],
+    "seniority": "mid",
+    "salary": "10-16 LPA",
+    "description": "Backend APIs for SaaS product."
+  },
+  {
+    "id": "job-003",
+    "title": "Backend Engineer - Java",
+    "company": "TechStack Corp",
+    "location": "Hyderabad, India",
+    "remote": false,
+    "skills": ["Java", "Spring", "Microservices", "Kafka"],
+    "seniority": "senior",
+    "salary": "20-30 LPA",
+    "description": "Develop microservices and messaging pipelines."
+  },
+  {
+    "id": "job-004",
+    "title": "Backend Developer - Node.js",
+    "company": "StackBridge",
+    "location": "Remote",
+    "remote": true,
+    "skills": ["Node.js", "Express", "MongoDB", "Redis"],
+    "seniority": "mid",
+    "salary": "15-22 LPA",
+    "description": "Build REST APIs using Node.js and NoSQL."
+  },
+  {
+    "id": "job-005",
+    "title": "Java Developer",
+    "company": "CrestWave",
+    "location": "Pune, India",
+    "remote": false,
+    "skills": ["Java", "JPA", "Hibernate", "MySQL"],
+    "seniority": "junior",
+    "salary": "6-10 LPA",
+    "description": "Develop Java application modules."
+  },
+
+  {
+    "id": "job-006",
+    "title": "Frontend Engineer",
+    "company": "BlueWave",
+    "location": "Remote",
+    "remote": true,
+    "skills": ["JavaScript", "React", "CSS"],
+    "seniority": "junior",
+    "salary": "8-12 LPA",
+    "description": "Build customer-facing UI components."
+  },
+  {
+    "id": "job-007",
+    "title": "Frontend Developer - Vue.js",
+    "company": "UICraft",
+    "location": "Chennai, India",
+    "remote": false,
+    "skills": ["Vue.js", "JavaScript", "HTML", "Tailwind"],
+    "seniority": "mid",
+    "salary": "10-14 LPA",
+    "description": "Develop responsive user interfaces."
+  },
+  {
+    "id": "job-008",
+    "title": "React Engineer",
+    "company": "Pixel Labs",
+    "location": "Bengaluru, India",
+    "remote": true,
+    "skills": ["React", "TypeScript", "Redux", "Next.js"],
+    "seniority": "senior",
+    "salary": "20-32 LPA",
+    "description": "Develop large-scale UI applications."
+  },
+
+  {
+    "id": "job-009",
+    "title": "Full Stack Engineer",
+    "company": "StackUp",
+    "location": "Remote",
+    "remote": true,
+    "skills": ["Node.js", "React", "MongoDB"],
+    "seniority": "mid",
+    "salary": "12-20 LPA",
+    "description": "End-to-end web application development."
+  },
+  {
+    "id": "job-010",
+    "title": "Full Stack Developer (Python + React)",
+    "company": "InsightSoft",
+    "location": "Hyderabad",
+    "remote": false,
+    "skills": ["Python", "FastAPI", "React", "PostgreSQL"],
+    "seniority": "mid",
+    "salary": "14-22 LPA",
+    "description": "Build APIs and frontends for enterprise apps."
+  },
+  {
+    "id": "job-011",
+    "title": "Full Stack Engineer - MERN",
+    "company": "WebWorks",
+    "location": "Chennai",
+    "remote": false,
+    "skills": ["MongoDB", "Express", "React", "Node.js"],
+    "seniority": "junior",
+    "salary": "5-9 LPA",
+    "description": "Build MERN stack applications."
+  },
+
+  {
+    "id": "job-012",
+    "title": "Android Developer",
+    "company": "AppGuru",
+    "location": "Hyderabad",
+    "remote": false,
+    "skills": ["Kotlin", "Android", "MVVM"],
+    "seniority": "mid",
+    "salary": "10-14 LPA",
+    "description": "Develop Android apps using Kotlin."
+  },
+  {
+    "id": "job-013",
+    "title": "Android Engineer - Jetpack",
+    "company": "MobileCraft",
+    "location": "Bengaluru",
+    "remote": true,
+    "skills": ["Kotlin", "Jetpack Compose", "Coroutines"],
+    "seniority": "senior",
+    "salary": "18-28 LPA",
+    "description": "Modern Android applications."
+  },
+  {
+    "id": "job-014",
+    "title": "iOS Developer",
+    "company": "SwiftHub",
+    "location": "Remote",
+    "remote": true,
+    "skills": ["Swift", "UIKit", "SwiftUI"],
+    "seniority": "mid",
+    "salary": "14-20 LPA",
+    "description": "Develop native iOS apps."
+  },
+
+  {
+    "id": "job-015",
+    "title": "Data Scientist",
+    "company": "DataSense",
+    "location": "Bengaluru",
+    "remote": false,
+    "skills": ["Python", "Pandas", "Scikit-learn", "SQL"],
+    "seniority": "mid",
+    "salary": "15-22 LPA",
+    "description": "Model development for analytics."
+  },
+  {
+    "id": "job-016",
+    "title": "Data Analyst",
+    "company": "InsightAI",
+    "location": "Mumbai",
+    "remote": false,
+    "skills": ["Excel", "PowerBI", "Python"],
+    "seniority": "junior",
+    "salary": "6-10 LPA",
+    "description": "Analyze business data and build dashboards."
+  },
+  {
+    "id": "job-017",
+    "title": "ML Engineer",
+    "company": "VisionX",
+    "location": "Bengaluru",
+    "remote": false,
+    "skills": ["TensorFlow", "PyTorch", "Python", "Docker"],
+    "seniority": "mid",
+    "salary": "20-32 LPA",
+    "description": "Deploy ML models to production."
+  },
+  {
+    "id": "job-018",
+    "title": "Deep Learning Engineer",
+    "company": "NeuroTech",
+    "location": "Remote",
+    "remote": true,
+    "skills": ["PyTorch", "CNNs", "Transformers"],
+    "seniority": "senior",
+    "salary": "28-45 LPA",
+    "description": "Develop DL models for vision and NLP."
+  },
+  {
+    "id": "job-019",
+    "title": "NLP Engineer",
+    "company": "LangAI",
+    "location": "Chennai",
+    "remote": false,
+    "skills": ["Python", "NLP", "Transformers", "TensorFlow"],
+    "seniority": "mid",
+    "salary": "16-25 LPA",
+    "description": "Work with NLP pipelines and LLMs."
+  },
+
+  {
+    "id": "job-020",
+    "title": "ML Ops Engineer",
+    "company": "ModelFlow",
+    "location": "Pune",
+    "remote": false,
+    "skills": ["MLflow", "Docker", "Kubernetes", "Python"],
+    "seniority": "senior",
+    "salary": "22-35 LPA",
+    "description": "Manage ML pipelines and deployments."
+  },
+  {
+    "id": "job-021",
+    "title": "AI Engineer",
+    "company": "CortexAI",
+    "location": "Remote",
+    "remote": true,
+    "skills": ["LLMs", "Python", "VectorDB"],
+    "seniority": "mid",
+    "salary": "18-30 LPA",
+    "description": "Build generative AI features and tools."
+  },
+  {
+    "id": "job-022",
+    "title": "GenAI Engineer",
+    "company": "PromptWorks",
+    "location": "Remote",
+    "remote": true,
+    "skills": ["Prompt Engineering", "LLMs", "Python"],
+    "seniority": "mid",
+    "salary": "20-35 LPA",
+    "description": "Develop agentic workflows and LLM applications."
+  },
+
+  {
+    "id": "job-023",
+    "title": "DevOps Engineer",
+    "company": "InfraCorp",
+    "location": "Chennai",
+    "remote": false,
+    "skills": ["Kubernetes", "Docker", "Terraform", "AWS"],
+    "seniority": "senior",
+    "salary": "18-30 LPA",
+    "description": "Manage infra and CI/CD pipelines."
+  },
+  {
+    "id": "job-024",
+    "title": "SRE",
+    "company": "CloudNine",
+    "location": "Remote",
+    "remote": true,
+    "skills": ["Linux", "Monitoring", "Go", "Terraform"],
+    "seniority": "senior",
+    "salary": "20-35 LPA",
+    "description": "Ensure infrastructure reliability."
+  },
+  {
+    "id": "job-025",
+    "title": "Cloud Engineer",
+    "company": "SkyOps",
+    "location": "Hyderabad",
+    "remote": false,
+    "skills": ["AWS", "GCP", "Terraform", "CI/CD"],
+    "seniority": "mid",
+    "salary": "14-22 LPA",
+    "description": "Manage cloud deployments."
+  },
+
+  {
+    "id": "job-026",
+    "title": "QA Automation Engineer",
+    "company": "TestHive",
+    "location": "Chennai",
+    "remote": false,
+    "skills": ["Selenium", "Python", "CI/CD"],
+    "seniority": "junior",
+    "salary": "6-10 LPA",
+    "description": "Automation testing for web apps."
+  },
+  {
+    "id": "job-027",
+    "title": "QA Engineer",
+    "company": "QualitySoft",
+    "location": "Remote",
+    "remote": true,
+    "skills": ["Manual testing", "Postman", "Jira"],
+    "seniority": "junior",
+    "salary": "5-8 LPA",
+    "description": "Manual testing for mobile and web."
+  },
+  {
+    "id": "job-028",
+    "title": "Automation Tester",
+    "company": "FastTest",
+    "location": "Pune",
+    "remote": false,
+    "skills": ["Java", "Selenium", "TestNG"],
+    "seniority": "mid",
+    "salary": "8-14 LPA",
+    "description": "Design and run automated test suites."
+  },
+
+  {
+    "id": "job-029",
+    "title": "Product Manager",
+    "company": "ProdFlow",
+    "location": "Bengaluru",
+    "remote": false,
+    "skills": ["Product Strategy", "Roadmapping", "Analytics"],
+    "seniority": "mid",
+    "salary": "20-35 LPA",
+    "description": "Drive product development lifecycle."
+  },
+  {
+    "id": "job-030",
+    "title": "Associate Product Manager",
+    "company": "InnovateX",
+    "location": "Chennai",
+    "remote": false,
+    "skills": ["Research", "Documentation"],
+    "seniority": "junior",
+    "salary": "8-12 LPA",
+    "description": "Assist in product development."
+  },
+  {
+    "id": "job-031",
+    "title": "Technical Product Manager",
+    "company": "APIverse",
+    "location": "Remote",
+    "remote": true,
+    "skills": ["API knowledge", "Agile", "PRD writing"],
+    "seniority": "senior",
+    "salary": "25-45 LPA",
+    "description": "Manage technical roadmaps and releases."
+  },
+
+  {
+    "id": "job-032",
+    "title": "UI/UX Designer",
+    "company": "DesignHub",
+    "location": "Mumbai",
+    "remote": false,
+    "skills": ["Figma", "UI Design", "Prototyping"],
+    "seniority": "mid",
+    "salary": "10-15 LPA",
+    "description": "Design user-friendly interfaces."
+  },
+  {
+    "id": "job-033",
+    "title": "UX Researcher",
+    "company": "UserFlow",
+    "location": "Remote",
+    "remote": true,
+    "skills": ["Research", "Interviews", "Prototyping"],
+    "seniority": "mid",
+    "salary": "12-18 LPA",
+    "description": "Conduct UX research studies."
+  },
+
+  {
+    "id": "job-034",
+    "title": "Cybersecurity Analyst",
+    "company": "SecureNet",
+    "location": "Hyderabad",
+    "remote": false,
+    "skills": ["Security", "SIEM", "Linux"],
+    "seniority": "mid",
+    "salary": "12-18 LPA",
+    "description": "Monitor and prevent security incidents."
+  },
+  {
+    "id": "job-035",
+    "title": "Security Engineer",
+    "company": "ShieldTech",
+    "location": "Remote",
+    "remote": true,
+    "skills": ["PenTest", "VAPT", "AWS Security"],
+    "seniority": "senior",
+    "salary": "20-40 LPA",
+    "description": "Handle penetration testing & audits."
+  },
+
+  {
+    "id": "job-036",
+    "title": "IT Support Engineer",
+    "company": "HelpDeskPro",
+    "location": "Pune",
+    "remote": false,
+    "skills": ["Troubleshooting", "Networking", "Windows Admin"],
+    "seniority": "junior",
+    "salary": "4-7 LPA",
+    "description": "Provide IT support to teams."
+  },
+  {
+    "id": "job-037",
+    "title": "System Administrator",
+    "company": "SysOps",
+    "location": "Bengaluru",
+    "remote": false,
+    "skills": ["Linux", "Shell Scripting", "Monitoring"],
+    "seniority": "mid",
+    "salary": "8-12 LPA",
+    "description": "Maintain systems and servers."
+  },
+
+  {
+    "id": "job-038",
+    "title": "Game Developer",
+    "company": "FunGames",
+    "location": "Hyderabad",
+    "remote": false,
+    "skills": ["Unity", "C#", "3D Modelling"],
+    "seniority": "mid",
+    "salary": "12-20 LPA",
+    "description": "Develop Unity-based games."
+  },
+  {
+    "id": "job-039",
+    "title": "Gameplay Programmer",
+    "company": "AlphaPlay",
+    "location": "Remote",
+    "remote": true,
+    "skills": ["C++", "Unreal Engine"],
+    "seniority": "senior",
+    "salary": "20-40 LPA",
+    "description": "Develop gameplay mechanics."
+  },
+
+  {
+    "id": "job-040",
+    "title": "Blockchain Developer",
+    "company": "BlockLabs",
+    "location": "Remote",
+    "remote": true,
+    "skills": ["Solidity", "Smart Contracts", "Web3"],
+    "seniority": "mid",
+    "salary": "18-30 LPA",
+    "description": "Develop smart contracts and DApps."
+  },
+
+  {
+    "id": "job-041",
+    "title": "Data Engineer",
+    "company": "PipeFlow",
+    "location": "Chennai",
+    "remote": false,
+    "skills": ["Kafka", "Spark", "Python"],
+    "seniority": "senior",
+    "salary": "20-32 LPA",
+    "description": "Build and maintain data pipelines."
+  },
+  {
+    "id": "job-042",
+    "title": "ETL Developer",
+    "company": "DataBridge",
+    "location": "Bengaluru",
+    "remote": false,
+    "skills": ["SQL", "ETL Tools", "Python"],
+    "seniority": "mid",
+    "salary": "10-15 LPA",
+    "description": "Develop ETL workflows."
+  },
+
+  {
+    "id": "job-043",
+    "title": "Technical Writer",
+    "company": "DocuPro",
+    "location": "Remote",
+    "remote": true,
+    "skills": ["Documentation", "API writing"],
+    "seniority": "mid",
+    "salary": "8-14 LPA",
+    "description": "Write technical docs & API guides."
+  },
+  {
+    "id": "job-044",
+    "title": "DevRel Engineer",
+    "company": "OpenSourceHub",
+    "location": "Bengaluru",
+    "remote": false,
+    "skills": ["Community", "Docs", "APIs"],
+    "seniority": "senior",
+    "salary": "20-30 LPA",
+    "description": "Work with developer communities."
+  },
+
+  {
+    "id": "job-045",
+    "title": "Business Analyst",
+    "company": "FinPro",
+    "location": "Mumbai",
+    "remote": false,
+    "skills": ["SQL", "Excel", "Analytics"],
+    "seniority": "mid",
+    "salary": "8-12 LPA",
+    "description": "Analyze business requirements."
+  },
+
+  {
+    "id": "job-046",
+    "title": "AI Research Engineer",
+    "company": "DeepVision",
+    "location": "Remote",
+    "remote": true,
+    "skills": ["Research", "LLMs", "Transformers"],
+    "seniority": "senior",
+    "salary": "30-50 LPA",
+    "description": "Work on foundational AI research."
+  },
+
+  {
+    "id": "job-047",
+    "title": "Backend Developer - Go",
+    "company": "GoWorks",
+    "location": "Hyderabad",
+    "remote": false,
+    "skills": ["Go", "GRPC", "Microservices"],
+    "seniority": "mid",
+    "salary": "18-28 LPA",
+    "description": "Develop backend systems using Go."
+  },
+
+  {
+    "id": "job-048",
+    "title": "Python Developer",
+    "company": "PyTech",
+    "location": "Remote",
+    "remote": true,
+    "skills": ["Python", "Flask", "SQL"],
+    "seniority": "junior",
+    "salary": "5-9 LPA",
+    "description": "Build Python applications."
+  },
+
+  {
+    "id": "job-049",
+    "title": "Backend + Cloud Engineer",
+    "company": "CloudShift",
+    "location": "Chennai",
+    "remote": false,
+    "skills": ["Node.js", "AWS", "Lambda", "Serverless"],
+    "seniority": "mid",
+    "salary": "15-25 LPA",
+    "description": "Build cloud-native backends."
+  },
+
+  {
+    "id": "job-050",
+    "title": "React Native Developer",
+    "company": "AppNation",
+    "location": "Remote",
+    "remote": true,
+    "skills": ["React Native", "JavaScript", "Redux"],
+    "seniority": "mid",
+    "salary": "12-18 LPA",
+    "description": "Build cross-platform mobile apps."
+  },
+
+  {
+    "id": "job-051",
+    "title": "LLM Application Engineer",
+    "company": "GenAI Studio",
+    "location": "Remote",
+    "remote": true,
+    "skills": ["Python", "LLMs", "Agents", "LangChain"],
+    "seniority": "mid",
+    "salary": "20-35 LPA",
+    "description": "Build agentic AI applications."
+  },
+  {
+    "id": "job-052",
+    "title": "Prompt Engineer",
+    "company": "AI Prompt Labs",
+    "location": "Remote",
+    "remote": true,
+    "skills": ["Prompt Engineering", "LLMs", "Python"],
+    "seniority": "junior",
+    "salary": "12-20 LPA",
+    "description": "Design high-quality prompts."
+  },
+
+  {
+    "id": "job-053",
+    "title": "Data Visualization Engineer",
+    "company": "VizExperts",
+    "location": "Bengaluru",
+    "remote": false,
+    "skills": ["Tableau", "Python", "SQL"],
+    "seniority": "mid",
+    "salary": "10-16 LPA",
+    "description": "Build visual dashboards."
+  },
+
+  {
+    "id": "job-054",
+    "title": "IT Infrastructure Engineer",
+    "company": "InfraLine",
+    "location": "Mumbai",
+    "remote": false,
+    "skills": ["Networking", "Linux", "Security"],
+    "seniority": "mid",
+    "salary": "8-14 LPA",
+    "description": "Manage IT infrastructure."
+  },
+
+  {
+    "id": "job-055",
+    "title": "Software Architect",
+    "company": "Architech",
+    "location": "Remote",
+    "remote": true,
+    "skills": ["DDD", "Microservices", "Design Patterns"],
+    "seniority": "senior",
+    "salary": "30-50 LPA",
+    "description": "Lead architecture design."
+  },
+
+  {
+    "id": "job-056",
+    "title": "Integration Engineer",
+    "company": "APILink",
+    "location": "Chennai",
+    "remote": false,
+    "skills": ["APIs", "ESB", "Mulesoft"],
+    "seniority": "mid",
+    "salary": "14-22 LPA",
+    "description": "Integrate enterprise systems."
+  },
+
+  {
+    "id": "job-057",
+    "title": "CRM Developer",
+    "company": "SalesPro",
+    "location": "Remote",
+    "remote": true,
+    "skills": ["Salesforce", "Apex", "LWC"],
+    "seniority": "mid",
+    "salary": "15-25 LPA",
+    "description": "Develop CRM customizations."
+  },
+
+  {
+    "id": "job-058",
+    "title": "IT Auditor",
+    "company": "AuditCorp",
+    "location": "Hyderabad",
+    "remote": false,
+    "skills": ["Auditing", "Security", "Compliance"],
+    "seniority": "mid",
+    "salary": "12-20 LPA",
+    "description": "Perform IT audits."
+  },
+
+  {
+    "id": "job-059",
+    "title": "Business Intelligence Engineer",
+    "company": "InsightPro",
+    "location": "Chennai",
+    "remote": false,
+    "skills": ["SQL", "ETL", "Tableau"],
+    "seniority": "senior",
+    "salary": "18-30 LPA",
+    "description": "Develop BI solutions."
+  },
+
+  {
+    "id": "job-060",
+    "title": "Test Automation Architect",
+    "company": "AutoQA",
+    "location": "Remote",
+    "remote": true,
+    "skills": ["Selenium", "Java", "Architecture"],
+    "seniority": "senior",
+    "salary": "22-35 LPA",
+    "description": "Lead test automation strategy."
+  },
+
+  {
+    "id": "job-061",
+    "title": "Embedded Engineer",
+    "company": "ChipCore",
+    "location": "Bengaluru",
+    "remote": false,
+    "skills": ["C", "Microcontrollers", "RTOS"],
+    "seniority": "mid",
+    "salary": "10-15 LPA",
+    "description": "Develop firmware for embedded devices."
+  },
+
+  {
+    "id": "job-062",
+    "title": "Firmware Engineer",
+    "company": "HardTech",
+    "location": "Pune",
+    "remote": false,
+    "skills": ["C", "C++", "I2C", "SPI"],
+    "seniority": "mid",
+    "salary": "12-18 LPA",
+    "description": "Develop firmware drivers."
+  },
+
+  {
+    "id": "job-063",
+    "title": "IoT Engineer",
+    "company": "ConnectAI",
+    "location": "Remote",
+    "remote": true,
+    "skills": ["IoT", "MQTT", "Python"],
+    "seniority": "mid",
+    "salary": "14-22 LPA",
+    "description": "Build IoT solutions."
+  },
+
+  {
+    "id": "job-064",
+    "title": "Analytics Engineer",
+    "company": "DataWorks",
+    "location": "Bengaluru",
+    "remote": false,
+    "skills": ["SQL", "dbt", "Python"],
+    "seniority": "mid",
+    "salary": "12-20 LPA",
+    "description": "Transform raw data into analytics-ready data."
+  },
+
+  {
+    "id": "job-065",
+    "title": "AI Trainer",
+    "company": "LLMCoach",
+    "location": "Remote",
+    "remote": true,
+    "skills": ["LLM Evaluation", "Annotation"],
+    "seniority": "junior",
+    "salary": "6-10 LPA",
+    "description": "Teach AI models via labeled data."
+  },
+
+  {
+    "id": "job-066",
+    "title": "RPA Developer",
+    "company": "ProcessBot",
+    "location": "Chennai",
+    "remote": false,
+    "skills": ["UiPath", "Automation", "VB.Net"],
+    "seniority": "mid",
+    "salary": "10-15 LPA",
+    "description": "Automate business processes."
+  },
+
+  {
+    "id": "job-067",
+    "title": "Solution Architect",
+    "company": "TechBridge",
+    "location": "Remote",
+    "remote": true,
+    "skills": ["Cloud", "Architecture", "APIs"],
+    "seniority": "senior",
+    "salary": "30-45 LPA",
+    "description": "Design enterprise solutions."
+  },
+
+  {
+    "id": "job-068",
+    "title": "AI Product Engineer",
+    "company": "AIX Systems",
+    "location": "Bengaluru",
+    "remote": false,
+    "skills": ["Product", "LLMs", "Python"],
+    "seniority": "mid",
+    "salary": "18-28 LPA",
+    "description": "Build LLM-based product features."
+  },
+
+  {
+    "id": "job-069",
+    "title": "Backend Intern",
+    "company": "StartIQ",
+    "location": "Remote",
+    "remote": true,
+    "skills": ["Python", "APIs"],
+    "seniority": "intern",
+    "salary": "0-3 LPA",
+    "description": "Assist in API development."
+  },
+
+  {
+    "id": "job-070",
+    "title": "Frontend Intern",
+    "company": "PixelLine",
+    "location": "Pune",
+    "remote": false,
+    "skills": ["React", "JavaScript"],
+    "seniority": "intern",
+    "salary": "0-3 LPA",
+    "description": "Support frontend development."
+  },
+
+  {
+    "id": "job-071",
+    "title": "Backend Engineer - Rust",
+    "company": "SpeedCore",
+    "location": "Bengaluru",
+    "remote": false,
+    "skills": ["Rust", "APIs", "Distributed Systems"],
+    "seniority": "senior",
+    "salary": "25-40 LPA",
+    "description": "Build high-performance backend systems."
+  },
+  {
+    "id": "job-072",
+    "title": "Cloud Native Developer",
+    "company": "KubeLabs",
+    "location": "Chennai",
+    "remote": false,
+    "skills": ["Kubernetes", "Go", "Docker"],
+    "seniority": "mid",
+    "salary": "18-28 LPA",
+    "description": "Develop cloud-native applications."
+  },
+
+  {
+    "id": "job-073",
+    "title": "Python Automation Engineer",
+    "company": "ScriptWorks",
+    "location": "Hyderabad",
+    "remote": false,
+    "skills": ["Python", "Scripting", "Linux"],
+    "seniority": "mid",
+    "salary": "8-14 LPA",
+    "description": "Automate tasks and workflows."
+  },
+
+  {
+    "id": "job-074",
+    "title": "Big Data Engineer",
+    "company": "DataMount",
+    "location": "Remote",
+    "remote": true,
+    "skills": ["Hadoop", "Spark", "Scala"],
+    "seniority": "senior",
+    "salary": "22-35 LPA",
+    "description": "Process large-scale distributed data."
+  },
+
+  {
+    "id": "job-075",
+    "title": "AI Chatbot Developer",
+    "company": "BotForge",
+    "location": "Pune",
+    "remote": false,
+    "skills": ["Python", "Dialogflow", "LLMs"],
+    "seniority": "mid",
+    "salary": "12-18 LPA",
+    "description": "Build conversational bots."
+  },
+
+  {
+    "id": "job-076",
+    "title": "Site Reliability Intern",
+    "company": "CloudOps",
+    "location": "Remote",
+    "remote": true,
+    "skills": ["Linux", "Monitoring"],
+    "seniority": "intern",
+    "salary": "0-3 LPA",
+    "description": "Assist SRE team."
+  },
+
+  {
+    "id": "job-077",
+    "title": "Content Engineer",
+    "company": "LearnTech",
+    "location": "Chennai",
+    "remote": false,
+    "skills": ["Python", "Markdown", "Docs"],
+    "seniority": "junior",
+    "salary": "5-8 LPA",
+    "description": "Create content for tech products."
+  },
+
+  {
+    "id": "job-078",
+    "title": "AR/VR Developer",
+    "company": "Virtuality",
+    "location": "Bengaluru",
+    "remote": false,
+    "skills": ["Unity", "C#", "3D"],
+    "seniority": "mid",
+    "salary": "15-22 LPA",
+    "description": "Develop AR/VR experiences."
+  },
+
+  {
+    "id": "job-079",
+    "title": "LLM Fine-Tuning Engineer",
+    "company": "TuneAI",
+    "location": "Remote",
+    "remote": true,
+    "skills": ["LLMs", "LoRA", "Python", "Datasets"],
+    "seniority": "senior",
+    "salary": "25-40 LPA",
+    "description": "Fine-tune LLMs for enterprise tasks."
+  },
+
+  {
+    "id": "job-080",
+    "title": "Applied Scientist",
+    "company": "DeepApply",
+    "location": "Bengaluru",
+    "remote": false,
+    "skills": ["Research", "ML", "Python"],
+    "seniority": "senior",
+    "salary": "30-45 LPA",
+    "description": "Experiment with ML algorithms."
+  },
+
+  {
+    "id": "job-081",
+    "title": "API Developer",
+    "company": "APIBox",
+    "location": "Hyderabad",
+    "remote": false,
+    "skills": ["Node.js", "Express", "SQL"],
+    "seniority": "mid",
+    "salary": "10-16 LPA",
+    "description": "Develop backend APIs."
+  },
+
+  {
+    "id": "job-082",
+    "title": "Platform Engineer",
+    "company": "DevPlatform",
+    "location": "Remote",
+    "remote": true,
+    "skills": ["Python", "Kubernetes", "CI/CD"],
+    "seniority": "senior",
+    "salary": "22-35 LPA",
+    "description": "Build internal engineering platforms."
+  },
+
+  {
+    "id": "job-083",
+    "title": "Search Engineer",
+    "company": "QueryAI",
+    "location": "Remote",
+    "remote": true,
+    "skills": ["Elasticsearch", "Python", "LLMs"],
+    "seniority": "mid",
+    "salary": "20-30 LPA",
+    "description": "Work on vector search and semantic search."
+  },
+
+  {
+    "id": "job-084",
+    "title": "Backend Engineer - PHP",
+    "company": "WebStack",
+    "location": "Chennai",
+    "remote": false,
+    "skills": ["PHP", "Laravel", "MySQL"],
+    "seniority": "mid",
+    "salary": "6-12 LPA",
+    "description": "Develop backend features in Laravel."
+  },
+
+  {
+    "id": "job-085",
+    "title": "Data Quality Engineer",
+    "company": "DataCheck",
+    "location": "Pune",
+    "remote": false,
+    "skills": ["Python", "SQL", "Testing"],
+    "seniority": "mid",
+    "salary": "10-15 LPA",
+    "description": "Ensure data accuracy and integrity."
+  },
+
+  {
+    "id": "job-086",
+    "title": "AI Content Developer",
+    "company": "GenContent",
+    "location": "Remote",
+    "remote": true,
+    "skills": ["LLMs", "Content Writing"],
+    "seniority": "junior",
+    "salary": "6-10 LPA",
+    "description": "Create AI-generated content."
+  },
+
+  {
+    "id": "job-087",
+    "title": "Python Data Engineer",
+    "company": "PipeCraft",
+    "location": "Hyderabad",
+    "remote": false,
+    "skills": ["Python", "Airflow", "Postgres"],
+    "seniority": "mid",
+    "salary": "12-20 LPA",
+    "description": "Develop scheduled pipelines."
+  },
+
+  {
+    "id": "job-088",
+    "title": "Integration Developer",
+    "company": "SysLink",
+    "location": "Chennai",
+    "remote": false,
+    "skills": ["APIs", "Java", "SOAP", "REST"],
+    "seniority": "mid",
+    "salary": "10-15 LPA",
+    "description": "Integrate systems and APIs."
+  },
+
+  {
+    "id": "job-089",
+    "title": "Web Developer",
+    "company": "WebCraft",
+    "location": "Remote",
+    "remote": true,
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "seniority": "junior",
+    "salary": "4-7 LPA",
+    "description": "Develop website features."
+  },
+
+  {
+    "id": "job-090",
+    "title": "Assistant Data Analyst",
+    "company": "InsightCorp",
+    "location": "Remote",
+    "remote": true,
+    "skills": ["Excel", "Python"],
+    "seniority": "junior",
+    "salary": "3-6 LPA",
+    "description": "Help with data preparation."
+  },
+
+  {
+    "id": "job-091",
+    "title": "AI Infrastructure Engineer",
+    "company": "DeepInfra",
+    "location": "Bengaluru",
+    "remote": false,
+    "skills": ["LLMs", "GPU", "Docker"],
+    "seniority": "mid",
+    "salary": "25-40 LPA",
+    "description": "Manage infrastructure for LLM workloads."
+  },
+
+  {
+    "id": "job-092",
+    "title": "Performance Engineer",
+    "company": "PerfLabs",
+    "location": "Hyderabad",
+    "remote": false,
+    "skills": ["Load Testing", "Java", "Monitoring"],
+    "seniority": "mid",
+    "salary": "10-16 LPA",
+    "description": "Test and optimize performance."
+  },
+
+  {
+    "id": "job-093",
+    "title": "NOC Engineer",
+    "company": "NetOps",
+    "location": "Chennai",
+    "remote": false,
+    "skills": ["Monitoring", "Networking"],
+    "seniority": "junior",
+    "salary": "4-7 LPA",
+    "description": "Monitor network operations."
+  },
+
+  {
+    "id": "job-094",
+    "title": "Backend Engineer - Ruby on Rails",
+    "company": "RubyTech",
+    "location": "Remote",
+    "remote": true,
+    "skills": ["Ruby", "Rails", "Postgres"],
+    "seniority": "mid",
+    "salary": "12-20 LPA",
+    "description": "Develop backend with Ruby on Rails."
+  },
+
+  {
+    "id": "job-095",
+    "title": "AI RAG Engineer",
+    "company": "RAGFlow",
+    "location": "Remote",
+    "remote": true,
+    "skills": ["Python", "VectorDB", "LLMs", "RAG"],
+    "seniority": "mid",
+    "salary": "20-35 LPA",
+    "description": "Build retrieval-augmented generation systems."
+  },
+
+  {
+    "id": "job-096",
+    "title": "Backend Developer - .NET",
+    "company": "DotNetWorks",
+    "location": "Pune",
+    "remote": false,
+    "skills": [".NET", "C#", "SQL"],
+    "seniority": "mid",
+    "salary": "10-15 LPA",
+    "description": "Develop backend using C# and .NET."
+  },
+
+  {
+    "id": "job-097",
+    "title": "AI Data Labeler",
+    "company": "LabelBrain",
+    "location": "Remote",
+    "remote": true,
+    "skills": ["Annotation", "Attention to detail"],
+    "seniority": "junior",
+    "salary": "3-5 LPA",
+    "description": "Annotate datasets for AI training."
+  },
+
+  {
+    "id": "job-098",
+    "title": "Technical Support Engineer",
+    "company": "TechHelp",
+    "location": "Chennai",
+    "remote": false,
+    "skills": ["Customer Support", "Troubleshooting"],
+    "seniority": "junior",
+    "salary": "4-7 LPA",
+    "description": "Support customers for tech issues."
+  },
+
+  {
+    "id": "job-099",
+    "title": "Python App Developer",
+    "company": "AppScript",
+    "location": "Hyderabad",
+    "remote": false,
+    "skills": ["Python", "Tkinter", "REST"],
+    "seniority": "mid",
+    "salary": "8-14 LPA",
+    "description": "Build small-scale applications."
+  },
+
+  {
+    "id": "job-100",
+    "title": "AI Agent Developer",
+    "company": "AgentX",
+    "location": "Remote",
+    "remote": true,
+    "skills": ["AI Agents", "Python", "Prompt Engineering"],
+    "seniority": "mid",
+    "salary": "22-35 LPA",
+    "description": "Build multi-agent AI applications."
+  }
+]
