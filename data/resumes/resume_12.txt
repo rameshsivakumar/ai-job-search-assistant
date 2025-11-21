@@ -1,0 +1,13 @@
+Ganesh Prasad
+DevOps Engineer
+Email: ganesh.prasad@example.com
+
+Skills: Docker, Kubernetes, Terraform, AWS, CI/CD, Linux
+
+Experience:
+- DevOps Engineer, InfraCorp (2018-06 - Present)
+  * Managed Kubernetes clusters.
+  * Built CI/CD pipelines using GitLab.
+
+Education:
+B.Tech Information Technology

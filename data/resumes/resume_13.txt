@@ -1,0 +1,13 @@
+Deepa Raj
+Cloud Engineer
+Email: deepa.raj@example.com
+
+Skills: AWS, GCP, Terraform, Jenkins, Kubernetes
+
+Experience:
+- Cloud Engineer, SkyOps (2020-02 - Present)
+  * Deployed microservices on AWS EKS.
+  * Automated provisioning with Terraform.
+
+Education:
+B.Tech Computer Science

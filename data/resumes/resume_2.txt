@@ -1,0 +1,11 @@
+Priya Sharma
+Software Engineer
+Email: priya.sharma@email.com
+Phone: +91 98765 43210
+
+Skills: Python, Django, Postgres, Docker, Celery
+Experience:
+- Software Engineer, Nimbus Labs (2020-03 - Present)
+  * Developed backend services and scheduled tasks.
+Education:
+B.E. Information Technology

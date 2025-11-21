@@ -1,0 +1,13 @@
+Riya Khanna
+Full Stack Developer
+Email: riya.khanna@example.com
+
+Skills: React, Node.js, Express.js, MongoDB, TypeScript
+
+Experience:
+- Full Stack Developer, StackUp (2019-02 - Present)
+  * Built end-to-end MERN applications.
+  * Designed micro frontends using React.
+
+Education:
+B.Tech Computer Science

@@ -1,0 +1,13 @@
+Kiran Kumar
+QA Automation Engineer
+Email: kiran.k@example.com
+
+Skills: Selenium, Python, PyTest, Postman, CI/CD
+
+Experience:
+- QA Engineer, TestHive (2019-09 - Present)
+  * Developed test automation frameworks.
+  * Performed regression testing.
+
+Education:
+B.Tech Information Technology

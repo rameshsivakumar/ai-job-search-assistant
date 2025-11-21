@@ -1,0 +1,13 @@
+Aditya Rao
+Cybersecurity Analyst
+Email: aditya.rao@example.com
+
+Skills: SIEM, Linux, Networking, Threat Detection
+
+Experience:
+- Security Analyst, SecureNet (2019-03 - Present)
+  * Investigated alerts and threats.
+  * Performed incident response.
+
+Education:
+B.Tech Cybersecurity

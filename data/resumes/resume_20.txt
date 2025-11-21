@@ -1,0 +1,12 @@
+Lakshmi M
+Software Engineer Intern
+Email: lakshmi.m@example.com
+
+Skills: Python, JavaScript, HTML, CSS, Git
+
+Experience:
+- Intern, StartIQ (2024-01 - 2024-06)
+  * Worked on small API enhancements.
+
+Education:
+B.Tech Computer Science (Final Year)

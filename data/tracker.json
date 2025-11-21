@@ -1,0 +1,54 @@
+[
+  {
+    "id": "7f45bea9-8797-44e9-90b2-c49a7532d906",
+    "applied_at": "2025-11-21T06:10:03.088594",
+    "resume_name": "Arun Kumar",
+    "job_id": "job-001",
+    "artifacts": {
+      "bullets": [
+        "Designed and implemented RESTful APIs using Spring Boot, improving response time by 30%.",
+        "Built database schemas and optimized SQL queries to reduce average query latency by 25%."
+      ],
+      "cover_letter": "Dear Hiring Manager,\n\nI am excited to apply for the Backend Developer role at Acme... (sample cover letter)\n"
+    }
+  },
+  {
+    "id": "9977480e-4d20-4ae2-b967-a0f3098a84e1",
+    "applied_at": "2025-11-21T06:14:42.217770",
+    "resume_name": "Priya Sharma",
+    "job_id": "job-002",
+    "artifacts": {
+      "bullets": [
+        "Designed and implemented RESTful APIs using Spring Boot, improving response time by 30%.",
+        "Built database schemas and optimized SQL queries to reduce average query latency by 25%."
+      ],
+      "cover_letter": "Dear Hiring Manager,\n\nI am excited to apply for the Backend Developer role at Acme... (sample cover letter)\n"
+    }
+  },
+  {
+    "id": "e0eb096a-dc54-42ea-bf7e-0f6697573b2e",
+    "applied_at": "2025-11-21T06:15:58.621819",
+    "resume_name": "Rohit Menon",
+    "job_id": "job-004",
+    "artifacts": {
+      "bullets": [
+        "Designed and implemented RESTful APIs using Spring Boot, improving response time by 30%.",
+        "Built database schemas and optimized SQL queries to reduce average query latency by 25%."
+      ],
+      "cover_letter": "Dear Hiring Manager,\n\nI am excited to apply for the Backend Developer role at Acme... (sample cover letter)\n"
+    }
+  },
+  {
+    "id": "36f4aa5d-1030-48af-a2fa-a6b6f1ccdc8e",
+    "applied_at": "2025-11-21T06:17:25.616701",
+    "resume_name": "Rohit Menon",
+    "job_id": "job-004",
+    "artifacts": {
+      "bullets": [
+        "Designed and implemented RESTful APIs using Spring Boot, improving response time by 30%.",
+        "Built database schemas and optimized SQL queries to reduce average query latency by 25%."
+      ],
+      "cover_letter": "Dear Hiring Manager,\n\nI am excited to apply for the Backend Developer role at Acme... (sample cover letter)\n"
+    }
+  }
+]

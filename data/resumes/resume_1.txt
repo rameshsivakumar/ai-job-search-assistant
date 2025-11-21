@@ -1,0 +1,16 @@
+Rahul Nair
+Backend Developer
+Email: rahul.nair@example.com
+Phone: +91 98988 11223
+
+Skills: Java, Spring Boot, Microservices, REST APIs, MySQL, Docker, Kafka
+
+Experience:
+- Backend Developer, SkyTech (2021-02 - Present)
+  * Developed Java microservices with Spring Boot.
+  * Integrated Kafka streams for async processing.
+- Java Developer Intern, CodeWorks (2020-01 - 2020-12)
+  * Built REST APIs and automated unit tests.
+
+Education:
+B.Tech Computer Science, Amrita University

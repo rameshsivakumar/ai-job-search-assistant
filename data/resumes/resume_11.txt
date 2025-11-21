@@ -1,0 +1,13 @@
+Vikram S
+ML Ops Engineer
+Email: vikram.s@example.com
+
+Skills: MLflow, Docker, Kubernetes, Python, Airflow
+
+Experience:
+- ML Ops Engineer, ModelFlow (2021-03 - Present)
+  * Managed ML model deployment pipelines.
+  * Created Airflow DAGs for automated training.
+
+Education:
+B.E. Computer Engineering

@@ -1,0 +1,13 @@
+Suresh Kumar
+Android Developer
+Email: suresh.k@example.com
+
+Skills: Kotlin, Android, Jetpack Compose, MVVM, Retrofit
+
+Experience:
+- Android Engineer, AppGuru (2018-05 - Present)
+  * Built Android apps using Jetpack Compose.
+  * Migrated legacy XML screens to Compose.
+
+Education:
+B.Tech Computer Science

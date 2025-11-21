@@ -1,0 +1,12 @@
+Aisha Rahman
+iOS Developer
+Email: aisha.rahman@example.com
+
+Skills: Swift, SwiftUI, UIKit, Combine
+
+Experience:
+- iOS Developer, SwiftHub (2019-07 - Present)
+  * Developed SwiftUI-based iOS apps.
+
+Education:
+B.Sc Computer Science

@@ -1,0 +1,373 @@
+{
+  "data/resumes/resume_1.txt": {
+    "name": "Rahul Nair",
+    "title": null,
+    "emails": [
+      "rahul.nair@example.com"
+    ],
+    "phones": [
+      "+91 98988 11223",
+      "2020-01 - 2020-12"
+    ],
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "Microservices",
+      "REST APIs",
+      "MySQL",
+      "Docker",
+      "Kafka"
+    ],
+    "years_experience": 4,
+    "experience": [],
+    "education": []
+  },
+  "data/resumes/resume_10.txt": {
+    "name": "Divya Srinivasan",
+    "title": null,
+    "emails": [
+      "divya.s@example.com"
+    ],
+    "phones": [],
+    "skills": [
+      "Python",
+      "TensorFlow",
+      "PyTorch",
+      "NLP",
+      "Computer Vision",
+      "Docker"
+    ],
+    "years_experience": 1,
+    "experience": [],
+    "education": []
+  },
+  "data/resumes/resume_11.txt": {
+    "name": "Vikram S",
+    "title": null,
+    "emails": [
+      "vikram.s@example.com"
+    ],
+    "phones": [],
+    "skills": [
+      "MLflow",
+      "Docker",
+      "Kubernetes",
+      "Python",
+      "Airflow"
+    ],
+    "years_experience": 1,
+    "experience": [],
+    "education": []
+  },
+  "data/resumes/resume_12.txt": {
+    "name": "Ganesh Prasad",
+    "title": null,
+    "emails": [
+      "ganesh.prasad@example.com"
+    ],
+    "phones": [],
+    "skills": [
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "AWS",
+      "CI/CD",
+      "Linux"
+    ],
+    "years_experience": 1,
+    "experience": [],
+    "education": []
+  },
+  "data/resumes/resume_13.txt": {
+    "name": "Deepa Raj",
+    "title": null,
+    "emails": [
+      "deepa.raj@example.com"
+    ],
+    "phones": [],
+    "skills": [
+      "AWS",
+      "GCP",
+      "Terraform",
+      "Jenkins",
+      "Kubernetes"
+    ],
+    "years_experience": 1,
+    "experience": [],
+    "education": []
+  },
+  "data/resumes/resume_14.txt": {
+    "name": "Kiran Kumar",
+    "title": null,
+    "emails": [
+      "kiran.k@example.com"
+    ],
+    "phones": [],
+    "skills": [
+      "Selenium",
+      "Python",
+      "PyTest",
+      "Postman",
+      "CI/CD"
+    ],
+    "years_experience": 1,
+    "experience": [],
+    "education": []
+  },
+  "data/resumes/resume_15.txt": {
+    "name": "Nisha Verma",
+    "title": null,
+    "emails": [
+      "nisha.v@example.com"
+    ],
+    "phones": [],
+    "skills": [
+      "Product Strategy",
+      "Roadmaps",
+      "PRDs",
+      "Data Analysis",
+      "User Research"
+    ],
+    "years_experience": 1,
+    "experience": [],
+    "education": []
+  },
+  "data/resumes/resume_16.txt": {
+    "name": "Harini S",
+    "title": null,
+    "emails": [
+      "harini.s@example.com"
+    ],
+    "phones": [],
+    "skills": [
+      "Figma",
+      "Wireframes",
+      "Prototyping",
+      "User Research",
+      "Visual Design"
+    ],
+    "years_experience": 1,
+    "experience": [],
+    "education": []
+  },
+  "data/resumes/resume_17.txt": {
+    "name": "Aditya Rao",
+    "title": null,
+    "emails": [
+      "aditya.rao@example.com"
+    ],
+    "phones": [],
+    "skills": [
+      "SIEM",
+      "Linux",
+      "Networking",
+      "Threat Detection"
+    ],
+    "years_experience": 1,
+    "experience": [],
+    "education": []
+  },
+  "data/resumes/resume_18.txt": {
+    "name": "Meena K",
+    "title": null,
+    "emails": [
+      "meena.k@example.com"
+    ],
+    "phones": [],
+    "skills": [
+      "C++",
+      "Microcontrollers",
+      "RTOS",
+      "UART",
+      "SPI"
+    ],
+    "years_experience": 1,
+    "experience": [],
+    "education": []
+  },
+  "data/resumes/resume_19.txt": {
+    "name": "Arjun Reddy",
+    "title": null,
+    "emails": [
+      "arjun.reddy@example.com"
+    ],
+    "phones": [],
+    "skills": [
+      "Unity",
+      "C#",
+      "3D Modelling",
+      "Game Physics"
+    ],
+    "years_experience": 1,
+    "experience": [],
+    "education": []
+  },
+  "data/resumes/resume_2.txt": {
+    "name": "Priya Sharma",
+    "title": null,
+    "emails": [
+      "priya.sharma@email.com"
+    ],
+    "phones": [
+      "+91 98765 43210"
+    ],
+    "skills": [
+      "Python",
+      "Django",
+      "Postgres",
+      "Docker",
+      "Celery"
+    ],
+    "years_experience": 3,
+    "experience": [],
+    "education": []
+  },
+  "data/resumes/resume_20.txt": {
+    "name": "Lakshmi M",
+    "title": null,
+    "emails": [
+      "lakshmi.m@example.com"
+    ],
+    "phones": [
+      "2024-01 - 2024-06"
+    ],
+    "skills": [
+      "Python",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Git"
+    ],
+    "years_experience": 1,
+    "experience": [],
+    "education": []
+  },
+  "data/resumes/resume_3.txt": {
+    "name": "Amit Sharma",
+    "title": null,
+    "emails": [
+      "amit.sharma@example.com"
+    ],
+    "phones": [],
+    "skills": [
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Redis",
+      "AWS Lambda"
+    ],
+    "years_experience": 1,
+    "experience": [],
+    "education": []
+  },
+  "data/resumes/resume_4.txt": {
+    "name": "Sneha Patil",
+    "title": null,
+    "emails": [
+      "sneha.patil@email.com"
+    ],
+    "phones": [],
+    "skills": [
+      "JavaScript",
+      "React",
+      "Redux",
+      "HTML",
+      "CSS",
+      "Tailwind"
+    ],
+    "years_experience": 1,
+    "experience": [],
+    "education": []
+  },
+  "data/resumes/resume_5.txt": {
+    "name": "Karthik Balaji",
+    "title": null,
+    "emails": [
+      "karthik.b@example.com"
+    ],
+    "phones": [],
+    "skills": [
+      "Vue.js",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Vite",
+      "REST APIs"
+    ],
+    "years_experience": 1,
+    "experience": [],
+    "education": []
+  },
+  "data/resumes/resume_6.txt": {
+    "name": "Riya Khanna",
+    "title": null,
+    "emails": [
+      "riya.khanna@example.com"
+    ],
+    "phones": [],
+    "skills": [
+      "React",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "TypeScript"
+    ],
+    "years_experience": 1,
+    "experience": [],
+    "education": []
+  },
+  "data/resumes/resume_7.txt": {
+    "name": "Suresh Kumar",
+    "title": null,
+    "emails": [
+      "suresh.k@example.com"
+    ],
+    "phones": [],
+    "skills": [
+      "Kotlin",
+      "Android",
+      "Jetpack Compose",
+      "MVVM",
+      "Retrofit"
+    ],
+    "years_experience": 1,
+    "experience": [],
+    "education": []
+  },
+  "data/resumes/resume_8.txt": {
+    "name": "Aisha Rahman",
+    "title": null,
+    "emails": [
+      "aisha.rahman@example.com"
+    ],
+    "phones": [],
+    "skills": [
+      "Swift",
+      "SwiftUI",
+      "UIKit",
+      "Combine"
+    ],
+    "years_experience": 1,
+    "experience": [],
+    "education": []
+  },
+  "data/resumes/resume_9.txt": {
+    "name": "Rohit Menon",
+    "title": null,
+    "emails": [
+      "rohit.menon@example.com"
+    ],
+    "phones": [],
+    "skills": [
+      "Python",
+      "Pandas",
+      "Numpy",
+      "Scikit-learn",
+      "SQL",
+      "Matplotlib"
+    ],
+    "years_experience": 1,
+    "experience": [],
+    "education": []
+  }
+}
